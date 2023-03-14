@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: user-center
+    # DataSource Config
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: Lhj2001124111
+    url: jdbc:mysql://localhost:3306/weather_db
+server:
+  port: 8080
+mybatis-plus:
+  configuration:
+    # 开启输出 sql 日志功能
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+#    map-underscore-to-camel-case: false
+
+
