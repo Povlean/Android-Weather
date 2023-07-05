@@ -5,7 +5,7 @@
 
 开发环境为：Android Studio + IDEA
 
-技术栈为：SSM + SpringBoot + Gson + Android + Gradle
+技术栈为：SSM + SpringBoot + FastJson + Android + Gradle
 
 需要自己使用ssm搭建后端服务器，用于保存三级城市信息，调用第三方api接口，将第三方的JSON数据回显到android的移动端
 
