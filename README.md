@@ -1,6 +1,8 @@
 # Android-Weather
 安卓实战的期末项目--和风天气系统，前端使用了安卓布局
 
+此系统使用了第三方API接口，如果想要学习安卓的OkHttp类实现方式，可以尝试该项目
+
 后端使用了android的java代码，以及后端使用IDEA搭建的服务器 
 
 开发环境为：Android Studio + IDEA
